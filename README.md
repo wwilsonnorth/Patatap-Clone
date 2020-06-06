@@ -5,4 +5,4 @@ HTML, CSS & JavaScript used. This is a simplified clone of the famous visual sou
 
 Download and run on your machine to try yourself!
 
-Alternatively, use this link to view - https://wwilsonnorth.github.io/Patatap-Clone/
+Alternatively, use this link to view the entire site - https://wwilsonnorth.github.io/Patatap-Clone/
